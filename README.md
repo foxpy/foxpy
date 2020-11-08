@@ -1,6 +1,8 @@
 ### So, you have found my Github profile?
 
-Welcome! If you are my group mate and willing to get inspired by looking at my homework, most of it can be found [here](https://github.com/foxpy/homework).
+Welcome! I am a computer science student, Linux user and C programmer.
+
+If you are my group mate and willing to get inspired by looking at my homework, most of it can be found [here](https://github.com/foxpy/homework).
 The most complicated tasks subsist in separate repos:
 - [error-correction-codes](https://github.com/foxpy/error-correction-codes)
 - [ecc-exists](https://github.com/foxpy/ecc-exists)
