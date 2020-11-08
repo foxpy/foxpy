@@ -1,16 +1,17 @@
-### Hi there 👋
+### So, you have found my Github profile?
 
-<!--
-**foxpy/foxpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! If you are my group mate and willing to get inspired by looking at my homework, most of it can be found [here](https://github.com/foxpy/homework).
+The most complicated tasks subsist in separate repos:
+- [error-correction-codes](https://github.com/foxpy/error-correction-codes)
+- [ecc-exists](https://github.com/foxpy/ecc-exists)
+- [optimal-hamming-code](https://github.com/foxpy/optimal-hamming-code)
+- [inaccurate-pi](https://github.com/foxpy/inaccurate-pi)
+- [battery-stats](https://github.com/foxpy/battery-stats)
+- [chacha20](https://github.com/foxpy/chacha20)
+- [dumb-crypto](https://github.com/foxpy/dumb-crypto)
 
-Here are some ideas to get you started:
+I am also a developer of (incomplete) C [library](https://github.com/foxpy/qc) designed to help writing software in C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also an author of fairly useful userspace [daemon](https://github.com/foxpy/stupid-fan) controlling thinkpad fan speed (my friend was using it).
+
+Some day, I will start working (I swear!) on [dumbgine](https://github.com/foxpy/dumbgine), a minimalist game engine.
