@@ -12,6 +12,7 @@ The most complicated tasks subsist in separate repos:
 - [battery-stats](https://github.com/foxpy/battery-stats)
 - [chacha20](https://github.com/foxpy/chacha20)
 - [dumb-crypto](https://github.com/foxpy/dumb-crypto)
+- [uni-books](https://github.com/foxpy/uni-books)
 
 I am also a developer of (incomplete) C [library](https://github.com/foxpy/qc) designed to help writing software in C.
 
