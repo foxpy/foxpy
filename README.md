@@ -1,4 +1,4 @@
-### So, you have found my Github profile?
+### So, you have found my Github profile, haven't you?
 
 Welcome! I am a computer science student, Linux user and C programmer.
 
